@@ -1,6 +1,7 @@
 # 🚀 LeetCode AI Assistant
 
-> A powerful Chrome/Brave extension that provides **AI-powered code review** and **complexity analysis** for LeetCode problems using Google's Gemini API.
+> A powerful Chrome/Brave extension that provides **AI-powered code review** and **complexity analysis** for LeetCode in the browser—guided hints that build reasoning without revealing full solutions.Follows the author’s approach, detects edge cases and performance pitfalls, and renders unlimited, real‑time time/space complexity graphs—powered by Gemini.
+
 
 ---
 
