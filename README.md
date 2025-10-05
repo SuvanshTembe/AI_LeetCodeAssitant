@@ -2,9 +2,6 @@
 
 > A powerful Chrome/Brave extension that provides **AI-powered code review** and **complexity analysis** for LeetCode problems using Google's Gemini API.
 
-![Extension Demo](./screenshots/demo.png)
-*Screenshot: Extension panel on LeetCode*
-
 ---
 
 ## ✨ Features
